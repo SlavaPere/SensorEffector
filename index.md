@@ -18,6 +18,8 @@ Uploaded Gantt Chart on GitHub as well as handed in physically
 Uploaded Proposal that was handed in a week ago
 Finally, started this blog
 
+![Image of Gantt Chart](https://github.com/SlavaPere/SensorEffector/blob/master/IMG_20170922_142904465.jpg)
+
 ### September 22, 2017 Questions/Problems of the day
 
 How can I connect my project to Erick and Heakeme's DMX projects and Crystal Fountains?
