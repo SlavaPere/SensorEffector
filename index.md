@@ -14,10 +14,14 @@ Started Noise Detector/Sound Level Project
  
 ### September 22, 2017
 
-Uploaded Gantt Chart
+Uploaded Gantt Chart on GitHub as well as handed in physically 
+Uploaded Proposal that was handed in a week ago
+Finally, started this blog
 
 ### September 22, 2017 Questions/Problems of the day
 
 How can I connect my project to Erick and Heakeme's DMX projects and Crystal Fountains?
-What specifics will my project have, perhaps use it as a sound control detector for the Crystal Fountains? 
+What specifics will my project have, perhaps use it as a sound control detector for the Crystal Fountains?
+(e.g. the fountains functions will work differently depending on command/noise received)
+
 Lastly, should I buy parts or borrow them?
