@@ -5,24 +5,19 @@ layout: page
 title: simple site
 ---
 
-Example Blog.
+Vyacheslav Perepelytsya's Blog.
 -------------
 
+### September 8, 2017
+
+Started Noise Detector/Sound Level Project
  
+### September 22, 2017
 
-### September 20, 2017
+Uploaded Gantt Chart
 
-Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml).  
-![Image of Schedule](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/documentation/Week3RubricforProjectSchedule.jpg)
+### September 22, 2017 Questions/Problems of the day
 
-### September 13, 2017
-
-Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
-
-### September 6, 2017
-
-Created [repository](https://github.com/six0four/StudentSenseHat). Also generated a quiz.
-
-### August 30, 2017
-
-Welcome!
+How can I connect my project to Erick and Heakeme's DMX projects and Crystal Fountains?
+What specifics will my project have, perhaps use it as a sound control detector for the Crystal Fountains? 
+Lastly, should I buy parts or borrow them?
