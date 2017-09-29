@@ -18,7 +18,7 @@ Uploaded Gantt Chart on GitHub as well as handed in physically
 Uploaded Proposal that was handed in a week ago
 Finally, started this blog
 
-![Image of Gantt Chart](https://github.com/SlavaPere/SensorEffector/blob/master/IMG_20170922_142904465.jpg)
+![Image of Gantt Chart](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/IMG_20170922_142904465.jpg)
 
 ### September 22, 2017 Questions/Problems of the day
 
@@ -32,7 +32,7 @@ Lastly, should I buy parts or borrow them?
 
 Uploaded Budget Proposal
 
-![Image of Budget Proposal](https://github.com/SlavaPere/SensorEffector/blob/master/Capture.PNG)
+![Image of Budget Proposal](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capture.PNG)
 
 ### September 29, 2017 Thoughts of the day
 
