@@ -18,7 +18,7 @@ Uploaded Gantt Chart on GitHub as well as handed in physically
 Uploaded Proposal that was handed in a week ago
 Finally, started this blog
 
-![Image of Gantt Chart](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/IMG_20170922_142904465.jpg)
+![Image of Gantt Chart](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capture2.jpg)
 
 ### September 22, 2017 Questions/Problems of the day
 
