@@ -27,3 +27,8 @@ What specifics will my project have, perhaps use it as a sound control detector 
 (e.g. the fountains functions will work differently depending on command/noise received)
 
 Lastly, should I buy parts or borrow them?
+
+### September 29, 2017
+
+Uploaded Budget Proposal
+
