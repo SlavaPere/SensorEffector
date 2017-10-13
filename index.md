@@ -32,8 +32,6 @@ Lastly, should I buy parts or borrow them?
 
 Uploaded Budget Proposal
 
-![Image of Budget Proposal](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capture.PNG)
-
 ### September 29, 2017 Thoughts of the day
 
 I got my sound detection hardware more or less figured out by buying two sound modules, how do I apply it now with Erick and Heakeme's DMX? One good idea I got today was to use led's to show the user when sound levels are at a critical level, perhaps I use one sound module for noise appliance and the other for commands for the DMX system? Still, I'm not too sure how to use them in tandem.
@@ -45,4 +43,8 @@ http://www.learningaboutelectronics.com/Articles/Sound-detector-circuit.php - a 
 ### October 13, 2017
 
 I got my first part, the Raspberry Pi and ordered two sound sensors which didn't arrive yet.
+
+![Image of Sensor Effectors](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capture.PNG)
+
+![Image of Raspberry Pi](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capture.PNG)
 
