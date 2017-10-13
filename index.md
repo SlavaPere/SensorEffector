@@ -41,3 +41,8 @@ I got my sound detection hardware more or less figured out by buying two sound m
 ### September 29, 2017 Link of the day
 
 http://www.learningaboutelectronics.com/Articles/Sound-detector-circuit.php - a good link relating to the craft of building a sound sensor, for my research
+
+### October 13, 2017
+
+I got my first part, the Raspberry Pi and ordered two sound sensors which didn't arrive yet.
+
