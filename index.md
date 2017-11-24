@@ -8,17 +8,27 @@ title: simple site
 Vyacheslav Perepelytsya's Blog.
 -------------
 
-### September 8, 2017
+### October 13, 2017
 
-Started Noise Detector/Sound Level Project
- 
-### September 22, 2017
+I got my first part, the Raspberry Pi and ordered two sound sensors which didn't arrive yet.
 
-Uploaded Gantt Chart on GitHub as well as handed in physically 
-Uploaded Proposal that was handed in a week ago
-Finally, started this blog
+![Image of Sensor Effectors](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capture.PNG)
 
-![Image of Gantt Chart](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capture2.PNG)
+![Image of Raspberry Pi](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/IMG_20171013_153250313.jpg)
+
+### September 29, 2017 Link of the day
+
+http://www.learningaboutelectronics.com/Articles/Sound-detector-circuit.php - a good link relating to the craft of building a sound sensor, for my research
+
+### September 29, 2017 Thoughts of the day
+
+I got my sound detection hardware more or less figured out by buying two sound modules, how do I apply it now with Erick and Heakeme's DMX? One good idea I got today was to use led's to show the user when sound levels are at a critical level, perhaps I use one sound module for noise appliance and the other for commands for the DMX system? Still, I'm not too sure how to use them in tandem.
+
+### September 29, 2017
+
+Uploaded Budget Proposal
+
+![Image of Budget Proposal](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Budget.jpg)
 
 ### September 22, 2017 Questions/Problems of the day
 
@@ -28,24 +38,14 @@ What specifics will my project have, perhaps use it as a sound control detector 
 
 Lastly, should I buy parts or borrow them?
 
-### September 29, 2017
+### September 22, 2017
 
-Uploaded Budget Proposal
+Uploaded Gantt Chart on GitHub as well as handed in physically 
+Uploaded Proposal that was handed in a week ago
+Finally, started this blog
 
-![Image of Budget Proposal](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Budget.jpg)
-### September 29, 2017 Thoughts of the day
+![Image of Gantt Chart](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capture2.PNG)
 
-I got my sound detection hardware more or less figured out by buying two sound modules, how do I apply it now with Erick and Heakeme's DMX? One good idea I got today was to use led's to show the user when sound levels are at a critical level, perhaps I use one sound module for noise appliance and the other for commands for the DMX system? Still, I'm not too sure how to use them in tandem.
+### September 8, 2017
 
-### September 29, 2017 Link of the day
-
-http://www.learningaboutelectronics.com/Articles/Sound-detector-circuit.php - a good link relating to the craft of building a sound sensor, for my research
-
-### October 13, 2017
-
-I got my first part, the Raspberry Pi and ordered two sound sensors which didn't arrive yet.
-
-![Image of Sensor Effectors](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capture.PNG)
-
-![Image of Raspberry Pi](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/IMG_20171013_153250313.jpg)
-
+Started Noise Detector/Sound Level Project
