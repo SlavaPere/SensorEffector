@@ -10,7 +10,7 @@ Vyacheslav Perepelytsya's Blog.
 ### November 24, 2017
 
 Strike finally ended after 5 weeks.
-During this time I got my final parts, the sound sensors, and an extra sound sensor just in case.
+During this time I got my final parts, the two sound modules, and an extra sound module just in case.
 
 ![Image of Sound Modules](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/sensors.png)
 
