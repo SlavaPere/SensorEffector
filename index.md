@@ -7,6 +7,26 @@ title: simple site
 
 Vyacheslav Perepelytsya's Blog.
 -------------
+### November 24, 2017
+
+Strike finally ended after 5 weeks.
+During this time I got my final parts, the sound sensors, and an extra sound sensor just in case.
+
+![Image of Sound Modules](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/sensors.png)
+
+I also used fritzing to change the PCB to reflect an abbreviated version of my name on it and sent a request to the parts crib to get it produced
+
+### November 24, 2017 Thoughts of the day
+
+Next up I have to start soldering the PCB parts as soon as possible.
+
+Luckily I feel like I have a good reference resource to look at:
+
+https://www.sunfounder.com/learn/sensor-kit-v2-0-for-raspberry-pi-b-plus/lesson-19-sound-sensor-sensor-kit-v2-0-for-b-plus.html
+
+### October 16, 2017
+
+Strike started.
 
 ### October 13, 2017
 
