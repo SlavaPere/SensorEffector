@@ -22,7 +22,8 @@ http://www.learningaboutelectronics.com/Articles/Sound-detector-circuit.php - a 
 
 ### September 29, 2017 Thoughts of the day
 
-I got my sound detection hardware more or less figured out by buying two sound modules, how do I apply it now with Erick and Heakeme's DMX? One good idea I got today was to use led's to show the user when sound levels are at a critical level, perhaps I use one sound module for noise appliance and the other for commands for the DMX system? Still, I'm not too sure how to use them in tandem.
+I got my sound detection hardware more or less figured out by buying two sound modules, how do I apply it now with Erick and Heakeme's DMX? 
+One good idea I got today was to use led's to show the user when sound levels are at a critical level, perhaps I use one sound module for noise appliance and the other for commands for the DMX system? Still, I'm not too sure how to use them in tandem.
 
 ### September 29, 2017
 
