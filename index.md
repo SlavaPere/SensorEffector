@@ -28,7 +28,7 @@ I got my sound detection hardware more or less figured out by buying two sound m
 
 Uploaded Budget Proposal
 
-![Image of Budget Proposal](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Budget.jpg)
+![Image of Budget Proposal](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capturebudget.PNG)
 
 ### September 22, 2017 Questions/Problems of the day
 
