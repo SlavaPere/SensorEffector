@@ -14,7 +14,7 @@ I got my first part, the Raspberry Pi and ordered two sound sensors which didn't
 
 ![Image of Sensor Effectors](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Capture.PNG)
 
-![Image of Raspberry Pi](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/IMG_20171013_153250313.jpg)
+![Image of Raspberry Pi](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/raspberrypi.jpg)
 
 ### September 29, 2017 Link of the day
 
