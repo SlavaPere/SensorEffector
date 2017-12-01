@@ -15,6 +15,8 @@ I soldered my PCB to completion, with a succesful test on connectivity and attem
 
 I must try to get my raspberry PI running properly for next class
 
+![Image of PCB](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/asdasd.jpg)
+
 ### November 24, 2017
 
 Strike finally ended after 5 weeks.
