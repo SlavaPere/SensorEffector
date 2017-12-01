@@ -11,7 +11,7 @@ Vyacheslav Perepelytsya's Blog.
 
 I soldered my PCB to completion, with a succesful test on connectivity and attempted to run the raspberry PI but failed due to failure of connection to PC. Neither Putty or remote desktop connection worked. I attempted different raspberry Pis but the instructions did not work. Troubleshooting was also not succesful.
 
-![Image of PCB](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/asdasd.jpg)
+![Image of PCB](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/asdf.jpg)
 
 ### December 1, 2017 Thoughts of the day
 
