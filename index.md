@@ -7,6 +7,14 @@ title: simple site
 
 Vyacheslav Perepelytsya's Blog.
 -------------
+### December 1, 2017
+
+I soldered my PCB to completion, with a succesful test on connectivity and attempted to run the raspberry PI but failed due to lack of resources and time
+
+### December 1, 2017 Thoughts of the day
+
+I must try to get my raspberry PI running properly for next class
+
 ### November 24, 2017
 
 Strike finally ended after 5 weeks.
