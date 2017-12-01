@@ -11,11 +11,11 @@ Vyacheslav Perepelytsya's Blog.
 
 I soldered my PCB to completion, with a succesful test on connectivity and attempted to run the raspberry PI but failed due to lack of resources and time
 
+![Image of PCB](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/asdasd.jpg)
+
 ### December 1, 2017 Thoughts of the day
 
 I must try to get my raspberry PI running properly for next class
-
-![Image of PCB](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/asdasd.jpg)
 
 ### November 24, 2017
 
