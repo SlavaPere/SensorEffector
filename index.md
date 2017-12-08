@@ -11,7 +11,7 @@ Vyacheslav Perepelytsya's Blog.
 
 I finished and submitted my 30 second Video Script as well as booted and set up my own Raspberry PI for my sensor
 
-![Link to 30 Second Script](https://github.com/SlavaPere/SensorEffector/blob/master/30SecScript.docx)
+[Link to 30 Second Script](https://github.com/SlavaPere/SensorEffector/blob/master/30SecScript.docx)
 
 Our group placard is submitted today as well
 
