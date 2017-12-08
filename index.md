@@ -7,6 +7,16 @@ title: simple site
 
 Vyacheslav Perepelytsya's Blog.
 -------------
+### December 8, 2017
+
+I finished and submitted my 30 second Video Script as well as booted and set up my own Raspberry PI for my sensor
+
+![Link to 30 Second Script](https://github.com/SlavaPere/SensorEffector/blob/master/30SecScript.docx)
+
+Our group placard is submitted today as well
+
+![Image of Placard](https://raw.githubusercontent.com/ErickCantos13/SensorEffector/master/Images/placard.JPG)
+
 ### December 1, 2017
 
 I soldered my PCB to completion, with a FULLY succesful test on connectivity and attempted to run the raspberry PI but failed due to failure of connection to PC. Neither Putty or remote desktop connection worked. I attempted different raspberry Pis but the instructions did not work. Troubleshooting was also not succesful.
