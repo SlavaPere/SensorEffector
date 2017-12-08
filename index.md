@@ -9,7 +9,7 @@ Vyacheslav Perepelytsya's Blog.
 -------------
 ### December 8, 2017
 
-I finished and submitted my 30 second Video Script as well as booted and set up my own Raspberry PI for my sensor
+I finished and submitted my 30 second Video Script as well as booted and set up my own Raspberry PI for my sensor, and got the LED blinking, the test program showed the LED blink in different colours (Red and Yellow)
 
 [Link to 30 Second Script](https://github.com/SlavaPere/SensorEffector/blob/master/30SecScript.docx)
 
