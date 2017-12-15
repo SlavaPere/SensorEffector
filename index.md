@@ -7,6 +7,12 @@ title: simple site
 
 Vyacheslav Perepelytsya's Blog.
 -------------
+### December 15, 2017
+
+I submitted my 30 second video with a functional demo of my sensor.
+
+[Link to 30 Second Video](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/SoundSensor.mp4)
+
 ### December 8, 2017
 
 I finished and submitted my 30 second Video Script as well as booted and set up my own Raspberry PI for my sensor. I got the LED blinking, the test program showed the LED blink in different colours (Red and Yellow)
