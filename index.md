@@ -9,7 +9,9 @@ Vyacheslav Perepelytsya's Blog.
 -------------
 ### December 15, 2017
 
-I submitted my 30 second video with a functional demo of my sensor.
+I submitted my 30 second video with a functional demo of my sound sensor. I'm happy with the result in general as the signal is being transmitted and the code reads the volume dynamically. 
+
+So far I have used a blackboard/direct wiring connection instead of the PCB but I plan to use the PCB in future projects.
 
 [Link to 30 Second Video](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/SoundSensor.mp4)
 
