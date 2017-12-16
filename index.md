@@ -7,15 +7,16 @@ title: simple site
 
 Vyacheslav Perepelytsya's Blog.
 -------------
-### Thoughts of the day - December 15, 2017
-
-So far I have used a blackboard/direct wiring connection instead of the PCB but I plan to use the PCB in future projects. I should get fritzing and draw up schematics for next week.
 
 ### December 15, 2017
 
 I submitted my 30 second video with a functional demo of my sound sensor. I'm happy with the result in general as the signal is being transmitted and the code reads the volume dynamically.
 
 [Link to 30 Second Video](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/SoundSensor.mp4)
+
+### Thoughts of the day - December 15, 2017
+
+So far I have used a blackboard/direct wiring connection instead of the PCB but I plan to use the PCB in future projects. I should get fritzing and draw up schematics for next week.
 
 ### December 8, 2017
 
