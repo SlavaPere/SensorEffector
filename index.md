@@ -11,13 +11,13 @@ Vyacheslav Perepelytsya's Blog.
 
 Today I demonstrated my project and upload my progress report which summarizes my progress so far.
 
-[Link to Progress Report](https://github.com/SlavaPere/SensorEffector/blob/master/Progress%20Report.docx)
+[Link to Progress Report](https://raw.githubusercontent.com/SlavaPere/SensorEffector/blob/master/Progress%20Report.docx)
 
 ### Pictures of December 22, 2017
 
 ![Image of Hardware](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/progress.bmp)
 
-![Image of code](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Code.png)
+![Image of code](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Code.PNG)
 
 ![Image of output](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/IMG_20171222_140852861.jpg)
 
