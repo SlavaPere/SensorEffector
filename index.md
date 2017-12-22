@@ -13,6 +13,10 @@ Today I demonstrated my project and upload my progress report which summarizes m
 
 [Link to Progress Report](https://github.com/SlavaPere/SensorEffector/blob/master/Progress%20Report.docx)
 
+### Pictures of December 22, 2017
+
+
+
 ### December 15, 2017
 
 I submitted my 30 second video with a functional demo of my sound sensor. I'm happy with the result in general as the signal is being transmitted and the code reads the volume dynamically.
