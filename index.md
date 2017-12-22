@@ -16,7 +16,7 @@ I submitted my 30 second video with a functional demo of my sound sensor. I'm ha
 
 ### Thoughts of the day - December 15, 2017
 
-So far I have used a blackboard/direct wiring connection instead of the PCB but I plan to use the PCB in future projects. I should get fritzing and draw up schematics for next week.
+So far I have used a blackboard/direct wiring connection instead of the PCB but I plan to use the PCB in future projects. I should start on fritzing and draw up schematics.
 
 ### December 8, 2017
 
