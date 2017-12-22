@@ -17,7 +17,7 @@ Today I demonstrated my project and upload my progress report which summarizes m
 
 ![Image of Hardware](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/progress.bmp)
 
-![Image of code](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Code.PNG) ![Image of output](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/IMG_20171222_140852861.jpg)
+![Image of code](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/Code.PNG)![Image of output](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/IMG_20171222_140852861.jpg)
 
 ### December 15, 2017
 
