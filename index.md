@@ -11,7 +11,7 @@ Vyacheslav Perepelytsya's Blog.
 
 Today I demonstrated my project and upload my progress report which summarizes my progress so far.
 
-[Link to Progress Report](https://raw.githubusercontent.com/SlavaPere/SensorEffector/blob/master/Progress%20Report.docx)
+[Link to Progress Report](https://www.github.com/SlavaPere/SensorEffector/blob/master/Progress%20Report.docx)
 
 ### Pictures of December 22, 2017
 
