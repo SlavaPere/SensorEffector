@@ -9,7 +9,7 @@ Vyacheslav Perepelytsya's Blog.
 -------------
 ### December 22, 2017
 
-Today I demonstrated my project and upload my progress report which summarizes my progress so far
+Today I demonstrated my project and upload my progress report which summarizes my progress so far.
 
 ### December 15, 2017
 
