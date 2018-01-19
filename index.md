@@ -12,7 +12,9 @@ Vyacheslav Perepelytsya's Blog.
 Project slides are uploaded for presentation: 
 https://github.com/SlavaPere/SensorEffector/blob/master/Stereo%20Sound%20Level%20Detector.pptx
 
-### January 1 New Year, time of reflections and beginnings
+### January 1, 2018 
+
+New Year, time of reflections and beginnings
 
 ### December 22, 2017
 
