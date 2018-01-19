@@ -1,5 +1,7 @@
-Build Instructions (Please note that I uploaded these build instructions as a file before class)
-Stereo Sound Level Detector
+# Build Instructions
+(Please note that I uploaded these build instructions as a file before class)
+
+## Stereo Sound Level Detector
 
 1.	Bill of Materials/Budget
 This project requires a Raspberry Pi version 2 or higher, and 2 sound sensor sensors from sunfounder. Additionally a long cable and usb keyboard/mouse may be needed if these are not available.
@@ -19,7 +21,7 @@ No more than 2 hours of setting up Raspberry Pi
 3.	Mechanical Assembly/Schematic
 See below for assembly of the system….
 
-[!Image](https://github.com/SlavaPere/SensorEffector/blob/master/assembly.png)
+[!Image](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/assembly.png)
 
 4.	PCB/Soldering
 The PCB used was a stripped down version of the PCB used for the hardware technology class, link attached https://github.com/six0four/StudentSenseHat/blob/master/README.md
@@ -41,7 +43,8 @@ By following these instructions you can reproduce my device fairly accurately, t
 
 
 
-Code:
+## Code:
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <wiringPi.h>
