@@ -7,6 +7,10 @@ title: simple site
 
 Vyacheslav Perepelytsya's Blog.
 -------------
+### January 20, 2018
+
+
+
 ### January 9-19, 2018
 
 The project finally works with stereo sound input as intended, most goals were reached, others were lost in favour of practicality.
