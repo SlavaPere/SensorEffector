@@ -19,7 +19,7 @@ No more than 2 hours of setting up Raspberry Pi
 ~ 30 minutes of connecting parts
 
 3.	Mechanical Assembly/Schematic
-See below for assembly of the system….
+See below for assembly of the system…
 
 [!Image](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/assembly.png)
 
