@@ -9,9 +9,9 @@ Vyacheslav Perepelytsya's Blog.
 -------------
 ### January 20, 2018
 
-Presentation
+FINAL Presentation
 
-Uploaded Build instructions as well
+Uploaded build instructions
 
 https://github.com/SlavaPere/SensorEffector/blob/master/Build%20Instructions.docx
 
