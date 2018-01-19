@@ -11,9 +11,11 @@ Vyacheslav Perepelytsya's Blog.
 
 Presentation
 
-**Uploaded Build instructions
+Uploaded Build instructions as well
+
 https://github.com/SlavaPere/SensorEffector/blob/master/Build%20Instructions.docx
-With attached program to run the device
+
+And attached a program to run the device
 https://github.com/SlavaPere/SensorEffector/blob/master/NoiseDetector.c
 
 ### January 9-19, 2018
