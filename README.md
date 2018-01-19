@@ -21,7 +21,7 @@ No more than 2 hours of setting up Raspberry Pi
 3.	Mechanical Assembly/Schematic
 See below for assembly of the system…
 
-[!Image](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/assembly.png)
+[Image](https://raw.githubusercontent.com/SlavaPere/SensorEffector/master/assembly.png)
 
 4.	PCB/Soldering
 The PCB used was a stripped down version of the PCB used for the hardware technology class, link attached https://github.com/six0four/StudentSenseHat/blob/master/README.md
