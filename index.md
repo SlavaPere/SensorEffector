@@ -12,7 +12,6 @@ Vyacheslav Perepelytsya's Blog.
 FINAL Presentation
 
 Uploaded build instructions
-
 https://github.com/SlavaPere/SensorEffector/blob/master/Build%20Instructions.docx
 
 And attached a program to run the device
