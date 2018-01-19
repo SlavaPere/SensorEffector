@@ -9,6 +9,8 @@ Vyacheslav Perepelytsya's Blog.
 -------------
 ### January 9-19, 2018
 
+The project finally works with stereo sound input as intended, most goals were reached, others were lost in favour of practicality.
+
 Project slides are uploaded for presentation: 
 https://github.com/SlavaPere/SensorEffector/blob/master/Stereo%20Sound%20Level%20Detector.pptx
 
