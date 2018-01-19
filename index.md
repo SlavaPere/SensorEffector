@@ -11,6 +11,11 @@ Vyacheslav Perepelytsya's Blog.
 
 Presentation
 
+**Uploaded Build instructions
+https://github.com/SlavaPere/SensorEffector/blob/master/Build%20Instructions.docx
+With attached program to run the device
+https://github.com/SlavaPere/SensorEffector/blob/master/NoiseDetector.c
+
 ### January 9-19, 2018
 
 The project finally works with stereo sound input as intended, main goals were reached, minor goals were lost or were superseded by other goals in favour of practicality.
