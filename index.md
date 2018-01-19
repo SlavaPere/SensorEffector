@@ -7,9 +7,14 @@ title: simple site
 
 Vyacheslav Perepelytsya's Blog.
 -------------
+### January 9-19
+
+Project slides are up for presentation: 
+https://github.com/SlavaPere/SensorEffector/blob/master/Stereo%20Sound%20Level%20Detector.pptx
+
 ### December 22, 2017
 
-Today I demonstrated my project and upload my progress report which summarizes my progress so far.
+Today I demonstrated my project and uploaded my progress report which summarizes my progress so far.
 
 [Link to Progress Report](https://github.com/SlavaPere/SensorEffector/blob/master/VPProgressReport.docx)
 
